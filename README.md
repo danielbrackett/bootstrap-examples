@@ -1,6 +1,6 @@
 # Bootstrap Examples
 
-An ongoing collection of example templates for using and extending Bootstrap. To get started, check out [http://examples.getbootstrap.com](http://examples.getbootstrap.com)!
+An ongoing collection of example templates for using and extending Bootstrap. To get started, check out [https://getbootstrap.com/docs/4.3/examples/](https://getbootstrap.com/docs/4.3/examples/)!
 
 
 
